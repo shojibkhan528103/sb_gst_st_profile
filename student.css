@@ -1,0 +1,23 @@
+.color-1{
+    background-color: rgb(70, 110, 243);
+    
+   }
+   .color-2{
+    background-color: rgb(117, 146, 241);
+    
+   }
+   .color-1,.color-2:hover{
+       background-color: rgb(125, 125, 231);
+   }
+   .color-3{
+       background-color: rgb(182, 199, 211);
+   }
+   .color-4{
+       background-color: rgb(246, 250, 32);
+   }
+   .color-5{
+       background-color: rgb(231, 49, 177);
+   }
+   .shojib-hover:hover{
+       background-color: rgb(218, 223, 228);
+   }
